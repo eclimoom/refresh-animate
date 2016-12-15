@@ -18,5 +18,7 @@ in css
 
 in html
 ```
-<button class="btn btn-lg btn-warning"><span class="glyphicon glyphicon-refresh glyphicon-refresh-animate"></span> Loading...</button>
+<button class="btn btn-warning">
+<span class="glyphicon glyphicon-refresh glyphicon-refresh-animate"></span> Loading...
+</button>
 ```
